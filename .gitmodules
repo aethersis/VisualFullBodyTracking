@@ -1,0 +1,6 @@
+[submodule "modules/VideoPose3D"]
+	path = modules/VideoPose3D
+	url = https://github.com/facebookresearch/VideoPose3D.git
+[submodule "modules/EfficientPose"]
+	path = modules/EfficientPose
+	url = https://github.com/daniegr/EfficientPose.git
